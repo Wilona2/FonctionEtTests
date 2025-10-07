@@ -22,11 +22,12 @@ qui retourne il y a combien de blocs de chaque couleur en moyenne
 # Répartition des tâches :
 """                     
 a   b   c
-1   2   3   Nom : Wilona a1 -> fait(??)               
+1   2   3   Nom : Wilona    TODO: c3            
 2   3   1   Nom : Maryam                
 3   1   2   Nom : Matis               
 """
 
+#a1 (Wilo)
 def points(pts_j1: list[int], pts_j2: int) -> int:
     """
     Fonction qui reçoit les points de vies et les points de défenses d'un joueur et
