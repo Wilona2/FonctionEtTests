@@ -8,8 +8,18 @@ def liste_legos(couleurs, pourcentages_blocs) -> int:
     :param pourcentages_blocs: Le pourcentage de couleurs dans un bloc de lego
     :return: le bloc de lego obtenu
     """
-    couleurs + pourcentages_blocs
-    return
-###lalala
+    lego = couleurs + pourcentages_blocs
+    return lego
+
+
+## b. Créer le plan de tests
+"""
+3. Fonction qui reçoit une liste de legos et 
+qui retourne il y a combien de blocs de chaque couleur en moyenne
+"""
+
+import pytest
+
+
 
 

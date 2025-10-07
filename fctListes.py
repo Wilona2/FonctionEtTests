@@ -44,6 +44,7 @@ def points(pts_j1: list[int], pts_j2: int) -> int:
 
 
 
+
     #(3(a)Matis
     def moyenne_legos(legos: liste) :
         # compteurs couleur
@@ -61,3 +62,4 @@ for bloc in legos:
         print("Rouge :", nb_rouge)
         print("Bleu:", nb_bleu)
         print("Vert:", nb_vert)
+
